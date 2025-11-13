@@ -267,7 +267,7 @@ After applying the UART configuration fix and running the custom ROS2 node:
 
 **Akash A**
 
-**Mujeeb Rahman **
+**N Mujeeb Rahman**
 
 
 ---

